@@ -1,10 +1,10 @@
 # 📘 Assignment: Games in Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Create interactive games using Python to practice fundamental programming concepts like strings, loops, conditionals, and user input. You'll build projects that demonstrate real-world problem-solving while reinforcing core programming skills.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Build a Hangman Game
 
